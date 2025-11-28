@@ -11,7 +11,8 @@
   "author": "Team Example",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "open": "^11.0.0"
   },
   "devDependencies": {
     "eslint": "^8.45.0",
