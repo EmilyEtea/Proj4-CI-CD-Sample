@@ -14,11 +14,11 @@
 - Small, testable feature set that demonstrates CI/CD benefits
 - High value: prevents backend regressions and improves team confidence
 
-## Team roles (example)
-- Frontend / Integration: Alice — React & UI work
-- Backend / API: Bob — Node.js & Express
-- QA / Tests: Charlie — Jest testing and test design
-- DevOps: Dana — CI/CD and workflow automation
+## Team roles (sample)
+- Frontend / Integration:  — React & UI work
+- Backend / API:  — Node.js & Express
+- QA / Tests:  — Jest testing and test design
+- DevOps:  — CI/CD and workflow automation
 
 ## Strategy
 - Feature branches -> PRs -> Automated tests run -> Merge only if green
