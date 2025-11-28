@@ -24,3 +24,5 @@ It performs:
 - Test cases (see tests/api.test.js)
 - CI/CD pipeline (see .github/workflows/ci.yml)
 - Presentation and team reflections (see docs/)
+
+Trigger CI
